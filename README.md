@@ -1,2 +1,2 @@
-# test_reposotry
+# test_repositry
 これはテスト用のリモートリポジトリでございます。
